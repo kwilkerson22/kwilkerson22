@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kwilkerson22
+- 👀 I’m interested in traveling and trying new kinds of food.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on gaming, banking and/or data analysis projects
+- 📫 How to reach me: kwilkerson09@gmail.com
