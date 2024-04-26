@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwilkerson22
 - 👀 I’m interested in traveling and trying new kinds of food.
-- 🌱 I’m currently learning Agile/Scrum
-- 💞️ I’m looking to collaborate on gaming, banking and/or data analysis projects
+- 🌱 I’m currently learning Data Structures, Algorithms and Software Security
+- 💞️ I’m looking to collaborate on gaming projects!
 - 📫 How to reach me: kwilkerson09@gmail.com
