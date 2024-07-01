@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwilkerson22
-- 👀 I’m interested in traveling and trying new kinds of food. Last Trip: Italy
+- 👀 I’m interested in traveling and trying new kinds of food. (Last Trip: Italy)
 - 🌱 Recent Classes: Data Structures, Algorithms and Software Security
 - 🌱 Current Class: UI/UX Design and Development
 - 💞️ I’m looking to collaborate on gaming and cybersecurity projects!
