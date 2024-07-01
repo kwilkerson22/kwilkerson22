@@ -2,5 +2,5 @@
 - 👀 I’m interested in traveling and trying new kinds of food.
 - 🌱 Recent Classes: Data Structures, Algorithms and Software Security
 - 🌱 Current Class: UI/UX Design and Development
-- 💞️ I’m looking to collaborate on gaming projects!
+- 💞️ I’m looking to collaborate on gaming and cybersecurity projects!
 - 📫 How to reach me: kwilkerson09@gmail.com
