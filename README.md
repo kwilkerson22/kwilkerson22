@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kwilkerson22
 - 👀 I’m interested in traveling and trying new kinds of food.
-- 🌱 I’m currently learning Data Structures, Algorithms and Software Security
+- 🌱 Recent Classes: Data Structures, Algorithms and Software Security
+- 🌱 Current Class: UI/UX Design and Development
 - 💞️ I’m looking to collaborate on gaming projects!
 - 📫 How to reach me: kwilkerson09@gmail.com
